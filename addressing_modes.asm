@@ -1,0 +1,4 @@
+ORG 0000H
+	MOV A,30H
+	MOV B,#55H
+	END
